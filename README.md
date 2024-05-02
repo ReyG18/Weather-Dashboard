@@ -1,4 +1,4 @@
-# Weather-Dashboard
+# [Weather-Dashboard](https://reyg18.github.io/Weather-Dashboard/)
 
 A simple weather dashboard using the OpenWeather API.
 
