@@ -1,0 +1,16 @@
+.app-title {
+  background-color: aquamarine;
+  padding: 10px;
+}
+
+#search-btn {
+  margin-top: 10px;
+}
+
+#form-container {
+  margin-right: 20%;
+}
+
+#temp, #wind, #humidity {
+  font-weight: normal;
+}
